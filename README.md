@@ -191,6 +191,8 @@ The project can be improved in several ways:
 * Using Computer vision to mimic hand movements
 
 
+**Note : For more project details go through the Project Details section and see the pdf**
+
 
 
 

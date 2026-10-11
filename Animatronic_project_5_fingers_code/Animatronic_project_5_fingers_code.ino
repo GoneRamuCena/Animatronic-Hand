@@ -1,4 +1,3 @@
-
 #include<Servo.h>
 
 // for calling 5 servo motors
